@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing internship in Upcode Software Labs **on Python language**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Bootstrap**
+- 🌱 I’m currently learning **Python,Django,Flask,Bootstrap,Git,PostgreSql, HTML, CSS**
 
 - 📫 How to reach me **etmsabi@gmail.com**
 
